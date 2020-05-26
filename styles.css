@@ -10,3 +10,10 @@
 .green{
     background-color:green;
 }
+
+.social-media-bg{
+    background-color:white;
+    height:50px;
+    width:250px;
+    border-radius: 5px;
+}
